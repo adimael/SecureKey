@@ -1,4 +1,4 @@
-<h1 align="center"><img src="src/icons/image 4.png" width="62" height="62">SecureKey: Sistema de Controle de Chaves Screens (v0.0.1)</h1>
+<h1 align="center"><img src="src/icons/image 4.png" width="62" height="62">SecureKey: Sistema de Controle de Chaves Screens (v0.0.0)</h1>
 <p align="center">
 Equipe do Projeto: Adimael, Bruno, Carolina, Geovanna, Luana e Tainá.
 </p>
